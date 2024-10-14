@@ -3,7 +3,7 @@ const store = createStore({
   state: {
     b1: {
       id: 1,
-      fullName: "Phạm Trung Hiếu",
+      fullName: "Nguyễn Văn A",
       gender: "Nam",
       dateOfBirth: "25/07/2004",
       address: "Hà Nội",
@@ -11,17 +11,17 @@ const store = createStore({
     b2: [
       {
         id: 1,
-        fullName: "Phạm Trung Hiếu",
+        fullName: "Nguyễn Văn A",
         gender: "Nam",
         dateOfBirth: "25/07/2004",
         address: "Hà Nội",
       },
       {
-        id: 2,
-        fullName: "Trần Thị Ly",
-        gender: "Nữ",
-        dateOfBirth: "23/01/2002",
-        address: "HCM",
+        id: 1,
+        fullName: "Nguyễn Văn A",
+        gender: "Nam",
+        dateOfBirth: "25/07/2004",
+        address: "Hà Nội",
       },
     ],
     b3: [
